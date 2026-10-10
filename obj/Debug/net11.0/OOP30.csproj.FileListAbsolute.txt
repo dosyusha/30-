@@ -1,0 +1,16 @@
+C:\Users\Dosya\Desktop\dz30\OOP30\bin\Debug\net11.0\OOP30.exe
+C:\Users\Dosya\Desktop\dz30\OOP30\bin\Debug\net11.0\OOP30.deps.json
+C:\Users\Dosya\Desktop\dz30\OOP30\bin\Debug\net11.0\OOP30.runtimeconfig.json
+C:\Users\Dosya\Desktop\dz30\OOP30\bin\Debug\net11.0\OOP30.runtimeconfig.dev.json
+C:\Users\Dosya\Desktop\dz30\OOP30\bin\Debug\net11.0\OOP30.dll
+C:\Users\Dosya\Desktop\dz30\OOP30\bin\Debug\net11.0\OOP30.pdb
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\OOP30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\OOP30.AssemblyInfoInputs.cache
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\OOP30.AssemblyInfo.cs
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\OOP30.csproj.CoreCompileInputs.cache
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\OOP30.dll
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\refint\OOP30.dll
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\OOP30.pdb
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\OOP30.genruntimeconfig.cache
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\ref\OOP30.dll
+C:\Users\Dosya\Desktop\dz30\OOP30\obj\Debug\net11.0\OOP30.csproj.Up2Date
